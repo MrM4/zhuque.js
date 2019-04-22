@@ -7,3 +7,4 @@ console.log(x)
 /*
         querystring.stringify()
  */
+console.log(querystring.stringify({base: "dd", de: "de"}, ";", ""));

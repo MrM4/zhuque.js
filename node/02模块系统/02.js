@@ -22,9 +22,12 @@
         在同一个文件里边，如果重复引用同一个模块，后面的引用用的是第一次引用的变量
 
  */
-let  a="meime"
+let  a="meime";
 
-// global.b=a
-console.log("我是02")
+global.b=a;
+console.log("我是02");
 
-exports.name=a
+module.exports=(function(){
+    console.log("haha")
+})()
+//exports.name=a;

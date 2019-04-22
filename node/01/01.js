@@ -51,4 +51,4 @@ NodeJs  是什么
        了解基础node操作
 */
 console.log(global);
-console.log("haha")
+console.log("haha");

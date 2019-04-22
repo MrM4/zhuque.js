@@ -21,3 +21,5 @@
 // console.log(require);
 let x=require("./02.js");
 console.log(x);
+
+console.log(b);

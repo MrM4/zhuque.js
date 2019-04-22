@@ -3,7 +3,7 @@
 const path =require("path");
 
 /*
-let  x=path.relative("a/b/c","a/g/f");      //..\..\g\f
+let  x=path.relative("a/b/c","a/g/f");      //..\..\g\f  从参数一到参数二的相对路径
 console.log(x)
 */
 

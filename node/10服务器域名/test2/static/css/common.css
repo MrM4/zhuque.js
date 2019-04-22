@@ -1,0 +1,36 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol,
+dl {
+    list-style: none;
+}
+
+body {
+    background-color: #f0f3ef;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+.clearfix:after {
+    content: " ";
+    display: block;
+    ;
+    line-height: 0;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+img:hover{
+    opacity: 0.8;
+}
+i{
+    font-style:normal;
+}

@@ -13,5 +13,11 @@
     <orderEntry type="library" name="@types/express" level="application" />
     <orderEntry type="library" name="@types/node" level="application" />
     <orderEntry type="library" name="@types/ejs-locals" level="application" />
+    <orderEntry type="library" name="@types/jquery" level="application" />
+    <orderEntry type="library" name="@types/mongoose" level="application" />
+    <orderEntry type="library" name="jQuery" level="application" />
+    <orderEntry type="library" name="@types/ejs" level="application" />
+    <orderEntry type="library" name="@types/angular" level="application" />
+    <orderEntry type="library" name="@types/mongoose-geojson-schema" level="application" />
   </component>
 </module>
